@@ -1,5 +1,8 @@
 # MentalWellnessWeb
 MentalWellness Website
+Please find the Deployment link here:- https://papaya-dieffenbachia-d6fbe7.netlify.app/
+This website is deployed using Netifly(https://www.netlify.com/)
+
 
 *MentalWellness*
 This is a update
